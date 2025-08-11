@@ -1,6 +1,6 @@
 # Yohannes Shewakena | Portfolio Website
 
-This is a personal portfolio website built with **HTML** and **CSS** to showcase my professional background, education, skills, interests, and contact information.
+This is a personal portfolio website built with **HTML** and **CSS** to showcase my professional background, education, skills, interests, and contact information. This project is my first attempt at building a website.
 
 ## 📁 Project Structure
 
@@ -43,14 +43,7 @@ portfolio/
 
 ![alt text](assets/image.png) ![alt text](assets/image-1.png)
 
-## 🚀 How to Use
-
-1. Clone the repository.
-2. Make adjustments
-3. Open `portfolio.html` in any browser.
-4. To make it public:
-   - Upload to [GitHub Pages](https://pages.github.com/)
-   - Or host via [Netlify](https://www.netlify.com/) / [Vercel](https://vercel.com/)
+## 🚀 Live demo : https://github.com/John-shewa2/Yohannes_Shewakena.github.io/
 
 ## 📬 Contact
 

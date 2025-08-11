@@ -43,7 +43,7 @@ portfolio/
 
 ![alt text](assets/image.png) ![alt text](assets/image-1.png)
 
-## 🚀 Live demo : https://github.com/John-shewa2/Yohannes_Shewakena.github.io/
+## 🚀 Live demo : https://john-shewa2.github.io/Yohannes_Shewakena.github.io/
 
 ## 📬 Contact
 
